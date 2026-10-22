@@ -1,0 +1,5 @@
+target/
+out/
+sourcerer_progress.properties
+sourcerer_progress.properties.tmp
+sourcerer_tutorial.properties
